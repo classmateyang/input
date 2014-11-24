@@ -14,6 +14,8 @@ computed as follows:
 delete something for test on github
 1,
 2,
+5,6
+7,8
 
 """
 import sys
