@@ -10,13 +10,8 @@ computed as follows:
     A0 = initial_amount(A, p, n)
     n  = days(A0, A, p)
     p  = annual_rate(A0, A, n)
-    ss
 
-    ss
-
-
-
-
+delete something for test on github
 """
 import sys
 _filename = sys.argv[0]
