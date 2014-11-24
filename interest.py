@@ -12,6 +12,9 @@ computed as follows:
     p  = annual_rate(A0, A, n)
 
 delete something for test on github
+1,
+2,
+
 """
 import sys
 _filename = sys.argv[0]
