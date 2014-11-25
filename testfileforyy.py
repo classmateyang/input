@@ -1,5 +1,11 @@
-import interest2
-print interest2.add1(4)
+import matplotlib.pyplot as plt
+import numpy as np
+
+x=np.arange(100)
+y=np.arange(100)
+plt(x,y)
+
+plt.show()
 
 
 
